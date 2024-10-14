@@ -5,6 +5,7 @@ Autor: Prof. Dr. **Monteiro, E. S**.
 
 Ano: 2024.
 
+Versão: 2.
 
 ---
 
@@ -20,14 +21,15 @@ Ano: 2024.
 - [9. Outras representações gráficas](#9-outras-representações-gráficas)
 
 
+
 > [!Note]
-Versão: 2. Este projeto que irá receber atualizações ao longo do ano.
+O foco deste projeto é: a) testes de IA e algoritmos para análise visual de dados e, b) a utilização destes dados em sala de aula nas disciplinas de banco de dados, engenharia de dados/ciência de dados, estatística e programação (com python). Não recomendamos este repositório para uso comercial.
 
 > [!WARNING]
-**Os dados podem ser atualizados sem aviso prévio**: Os dados produzidos bem como os gráficos podem sofrer modificações! Novos algoritmos, IAs e prompts podem ser usados para gerar novos gráficos.
+Os dados podem ser atualizados sem aviso prévio: Os dados produzidos bem como os gráficos podem sofrer modificações! Novos algoritmos, IAs e prompts podem ser usados para gerar novos gráficos.
 
 > [!TIP] 
-> Visite regularmente a página para obter atualizações! Consulte a página do IBGE sobre atualizações na fonte de dados.
+> Visite regularmente a página para obter atualizações! Consulte a página do IBGE sobre atualizações na fonte de dados primária.
 
 
 ---
