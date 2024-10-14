@@ -21,7 +21,7 @@ Ano: 2024.
 
 
 > [!Note]
-**Versão:** 2: Esta projeto que irá receber atualizações ao longo do ano.
+Versão: 2. Este projeto que irá receber atualizações ao longo do ano.
 
 > [!WARNING]
 **Os dados podem ser atualizados sem aviso prévio**: Os dados produzidos bem como os gráficos podem sofrer modificações! Novos algoritmos, IAs e prompts podem ser usados para gerar novos gráficos.
