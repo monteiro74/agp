@@ -11,18 +11,20 @@ Versão: 2.
 
 - [Projeto AGP](#projeto-agp)
 - [Breve apresentação](#breve-apresentação)
-- [1. Descrição do dataset](#1-descrição-do-dataset)
-- [2. Metodologia](#2-metodologia)
-- [3. Análise populacional](#3-análise-populacional)
-- [4. Comparação da população](#4-comparação-da-população)
-- [5. Análise de tendências dos municípios](#5-análise-de-tendências-dos-municípios)
-- [6. Análise do declínio populacional](#6-análise-do-declínio-populacional)
-- [7. Distribuição populacional](#7-distribuição-populacional)
-- [8. Tree map e heat map](#8-tree-map-e-heat-map)
-- [9. Outras representações gráficas](#9-outras-representações-gráficas)
+- [1. Objetivos](#1-objetivos)
+- [2. Descrição do dataset](#2-descrição-do-dataset)
+- [3. Metodologia](#3-metodologia)
+- [4. Análise populacional](#4-análise-populacional)
+- [5. Comparação da população](#5-comparação-da-população)
+- [6. Análise de tendências dos municípios](#6-análise-de-tendências-dos-municípios)
+- [7. Análise do declínio populacional](#7-análise-do-declínio-populacional)
+- [8. Distribuição populacional](#8-distribuição-populacional)
+- [9. Tree map e heat map](#9-tree-map-e-heat-map)
+- [10. Outras representações gráficas](#10-outras-representações-gráficas)
 
 
 
+---
 > [!Note]
 O foco deste projeto é: a) testes de IA e algoritmos para análise visual de dados e, b) a utilização destes dados em sala de aula nas disciplinas de banco de dados, engenharia de dados/ciência de dados, estatística e programação (com python). Não recomendamos este repositório para uso comercial.
 
@@ -38,14 +40,22 @@ Os dados podem ser atualizados sem aviso prévio: Os dados produzidos bem como o
 [Apresentação](https://docs.google.com/presentation/d/1uKVze1mveqRcA2p1HdTYmu67BZPLhGhNXikmW9MfELM/view)
 
 ---
-# 1. Descrição do dataset
+# 1. Objetivos
+
+* Testes de IA generativas, prompts e algoritmos para análise visual de dados.
+* Utilização destes dados, programas e gráficos em sala de aula nas disciplinas de banco de dados, engenharia de dados/ciência de dados, estatística e programação (com python).
+* Desenvolver um processo de obtenção de dados, análise via IA generativa e interpretação posterior.
+
+
+---
+# 2. Descrição do dataset
 
 Arquivo CSV
-População de Mato Gross (MT) por municípios de 1980 a 2022
+População de Mato Gross (MT) por municípios de 1980, 1991, 2000, 2010 e 2022
 Fonte: [IBGE, censo populacional](https://www.ibge.gov.br/estatisticas/sociais/populacao.html).
 
 ---
-# 2. Metodologia
+# 3. Metodologia
 
 1. Obtenção do dataset em formato CSV, formatação do dataset (tabela) com os dados para os respectivos anos no site do IBGE.
 2. Criar prompts em linguagem natural para que as IAs generativas possam produzir programas em Python.
@@ -58,7 +68,7 @@ Fonte: [IBGE, censo populacional](https://www.ibge.gov.br/estatisticas/sociais/p
 9. Montar um repositório público com os dados gerados.
 
 ---
-# 3. Análise populacional
+# 4. Análise populacional
 
 Período 1980-1991:
 Município com maior crescimento anual: Guarantã do Norte
@@ -162,7 +172,7 @@ Vale de Sãoo Domingos
 [Início](#projeto-agp)
 
 ---
-# 4. Comparação da população
+# 5. Comparação da população
 
 ![Tendências populacionais por Mesorregião](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f1.png)
 
@@ -175,7 +185,7 @@ Vale de Sãoo Domingos
 [Início](#projeto-agp)
 
 ---
-# 5. Análise de tendências dos municípios
+# 6. Análise de tendências dos municípios
 
 Exemplo: 
 
@@ -186,7 +196,7 @@ Outros municípios podem ser consultados neste [link](https://github.com/monteir
 [Início](#projeto-agp)
 
 ---
-# 6. Análise do declínio populacional
+# 7. Análise do declínio populacional
 
 Alguns municípios com declínio populacional ao longo do tempo:
 - Dom Aquino
@@ -237,7 +247,7 @@ Declínio populacional para Nova Brasilândia:
 [Início](#projeto-agp)
 
 ---
-# 7. Distribuição populacional
+# 8. Distribuição populacional
 
 ![Distribuição populacional MT 1980](https://github.com/monteiro74/agp/blob/main/analise_distribuicao_populacao/distribuicao_MT_1980.jpg)
 
@@ -551,7 +561,7 @@ Distribuição populacional no estado MT em 2022:
 [Início](#projeto-agp)
 
 ---
-# 8. Tree map e heat map
+# 9. Tree map e heat map
 
 ![Tree map da população MT 2022](https://github.com/monteiro74/agp/blob/main/mapa_de_calor/treemap_populacao_municipios.jpg)
 
@@ -560,7 +570,7 @@ Distribuição populacional no estado MT em 2022:
 [Início](#projeto-agp)
 
 ---
-# 9. Outras representações gráficas
+# 10. Outras representações gráficas
 
 ![gráfico1](https://github.com/monteiro74/agp/blob/main/outras_rep_graficas/grafico_1.png)
 
