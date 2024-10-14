@@ -1,10 +1,8 @@
 # Projeto AGP
-**Análise Gráfica Populacional** (AGP)
+Análise Gráfica Populacional (AGP)
 
-Autor: Prof. Dr. **Monteiro, E. S**.
-
+Autor: Prof. Dr. Monteiro, E. S.
 Ano: 2024.
-
 Versão: 2.
 
 ---
