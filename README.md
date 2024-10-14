@@ -2,6 +2,7 @@
 Análise gráfica populacional
 
 Autor: Prof. Dr. **Monteiro, E. S**.
+
 Ano: 2024.
 
 
@@ -17,6 +18,16 @@ Ano: 2024.
 - [7. Distribuição populacional](#7-distribuição-populacional)
 - [8. Tree map e heat map](#8-tree-map-e-heat-map)
 - [9. Outras representações gráficas](#9-outras-representações-gráficas)
+
+
+> [!Note]
+**Versão:** 2: Esta projeto que irá receber atualizações ao longo do ano.
+
+> [!WARNING]
+**Os dados podem ser atualizados sem aviso prévio**: Os dados produzidos bem como os gráficos podem sofrer modificações! Novos algoritmos, IAs e prompts podem ser usados para gerar novos gráficos.
+
+> [!TIP] 
+> Visite regularmente a página para obter atualizações! Consulte a página do IBGE sobre atualizações na fonte de dados.
 
 
 ---
