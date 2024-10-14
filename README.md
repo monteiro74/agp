@@ -50,22 +50,22 @@ Os dados podem ser atualizados sem aviso prévio: Os dados produzidos bem como o
 ---
 # 2. Descrição do dataset
 
-Arquivo CSV
-População de Mato Gross (MT) por municípios de 1980, 1991, 2000, 2010 e 2022
-Fonte: [IBGE, censo populacional](https://www.ibge.gov.br/estatisticas/sociais/populacao.html).
+* Arquivo em formato CSV
+* Conteúdo: população de Mato Gross (MT) por Mesorregião, Microrregião, Municípios de 1980, 1991, 2000, 2010 e 2022
+* Fonte primária: [IBGE, censo populacional](https://www.ibge.gov.br/estatisticas/sociais/populacao.html).
 
 ---
 # 3. Metodologia
 
 1. Obtenção do dataset em formato CSV, formatação do dataset (tabela) com os dados para os respectivos anos no site do IBGE.
-2. Criar prompts em linguagem natural para que as IAs generativas possam produzir programas em Python.
-3. Submeter cada prompt e respectivo arquivo do dataset em format CSV para as IA generativas. 
-4. Utilizar as IAs: Claude e ChatGPT com os prompts e dataset.
-5. Executar cada programa python dentro da IDE Spyder.
-6. Analisar os resultados das saídas dos programas.
+2. Criação prompts em linguagem natural para que as IAs generativas possam produzir programas em Python.
+3. Submissão de cada prompt e respectivo arquivo do dataset em format CSV para as IA generativas. 
+4. Utilização das IAs: Claude, Sapiens e ChatGPT com os prompts e dataset.
+5. Execução de cada programa python dentro da IDE Spyder.
+6. Analise os resultados das saídas dos programas.
 7. Cada programa Python deve gerar resultados na tela (saída padrão) e na forma de gráficos em formato JPG. 
-8. Outras visualizações foram geradas com Power BI.
-9. Montar um repositório público com os dados gerados.
+8. Geração de outras visualizações foram geradas com Power BI.
+9. Montagem de um repositório público com os dados gerados no github.
 
 ---
 # 4. Análise populacional
