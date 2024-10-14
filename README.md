@@ -216,98 +216,47 @@ Declínio populacional para Nova Brasilândia:
 
 ![Distribuição populacional MT 1980](https://github.com/monteiro74/agp/blob/main/analise_distribuicao_populacao/distribuicao_MT_1980.jpg)
 
-Pedra Preta: 0.53% da população do estado
-Peixoto de Azevedo: 1.75% da população do estado
-Planalto da Serra: 0.00% da população do estado
-Poconé: 1.40% da população do estado
-Pontal do Araguaia: 0.00% da população do estado
-Ponte Branca: 0.18% da população do estado
-Pontes e Lacerda: 1.62% da população do estado
-Porto Alegre do Norte: 0.48% da população do estado
-Porto dos Gaúchos: 0.31% da população do estado
-Porto Esperidião: 0.40% da população do estado
-Porto Estrela: 0.00% da população do estado
-Poxoréo: 1.12% da população do estado
-Primavera do Leste: 0.59% da população do estado
-Querência: 0.00% da população do estado
-Reserva do Cabaçal: 0.15% da população do estado
-Ribeirão Cascalheira: 0.41% da população do estado
-Ribeirãozinho: 0.00% da população do estado
-Rio Branco: 0.56% da população do estado
-Rondolândia: 0.00% da população do estado
-Rondonópolis: 5.89% da população do estado
-Rosário Oeste: 0.94% da população do estado
-Salto do Céu: 0.35% da população do estado
-Santa Carmem: 0.00% da população do estado
-Santa Cruz do Xingu: 0.00% da população do estado
-Santa Rita do Trivelato: 0.00% da população do estado
-Santa Terezinha: 0.42% da população do estado
-Santo Afonso: 0.00% da população do estado
-Santo Antônio do Leste: 0.72% da população do estado
-Santo Antônio do Leverger: 0.00% da população do estado
-São Félix do Araguaia: 0.68% da população do estado
-São José do Povo: 0.00% da população do estado
-São José do Rio Claro: 0.77% da população do estado
-São José do Xingu: 0.00% da população do estado
-São José dos Quatro Marcos: 1.04% da população do estado
-São Pedro da Cipa: 0.00% da população do estado
-Sapezal: 0.00% da população do estado
-Serra Nova Dourada: 0.00% da população do estado
-Sinop: 1.80% da população do estado
-Sorriso: 0.75% da população do estado
-Tabaporã: 0.00% da população do estado
-Tangará da Serra: 1.87% da população do estado
-Tapurah: 0.34% da população do estado
-Terra Nova do Norte: 1.05% da população do estado
-Tesouro: 0.21% da população do estado
-Torixoréu: 0.39% da população do estado
-União do Sul: 0.00% da população do estado
-Vale de São Domingos: 0.00% da população do estado
-Várzea Grande: 7.13% da população do estado
-Vera: 0.51% da população do estado
-Vila Bela da Santíssima Trindade: 0.64% da população do estado
-Vila Rica: 0.44% da população do estado
 
 Índice de Gini para MT em 1991: 0.7246
 
 ![Distribuição populacional MT 1991](https://github.com/monteiro74/agp/blob/main/analise_distribuicao_populacao/distribuicao_MT_1991.jpg)
 
 Distribuição populacional no estado MT em 2000:
-Acorizal: 0.23% da população do estado
-Agua Boa: 0.67% da população do estado
-Alta Floresta: 1.88% da população do estado
-Alto Araguaia: 0.46% da população do estado
-Alto Boa Vista: 0.25% da população do estado
-Alto Garças: 0.33% da população do estado
-Alto Paraguai: 0.34% da população do estado
-Alto Taquari: 0.18% da população do estado
-Apiacás: 0.27% da população do estado
-Araguaiana: 0.14% da população do estado
-Araguainha: 0.05% da população do estado
-Araputanga: 0.55% da população do estado
-Arenápolis: 0.46% da população do estado
-Aripuanã: 1.10% da população do estado
-Barão de Melgaço: 0.31% da população do estado
-Barra do Bugres: 1.10% da população do estado
-Barra do Garças: 2.08% da população do estado
-Bom Jesus do Araguaia: 0.00% da população do estado
-Brasnorte: 0.39% da população do estado
-Cáceres: 3.43% da população do estado
-Campinápolis: 0.50% da população do estado
-Campo Novo do Parecis: 0.70% da população do estado
-Campo Verde: 0.69% da população do estado
-Campos de Júlio: 0.12% da população do estado
-Canabrava do Norte: 0.20% da população do estado
-Canarana: 0.62% da população do estado
-Carlinda: 0.49% da população do estado
-Castanheira: 0.31% da população do estado
-Chapada dos Guimarães: 0.63% da população do estado
-Cláudia: 0.41% da população do estado
-Cocalinho: 0.22% da população do estado
-Colíder: 1.12% da população do estado
-Colniza: 0.00% da população do estado
-Comodoro: 0.60% da população do estado
-Confresa: 0.71% da população do estado
+* Acorizal: 0.23% da população do estado
+* Agua Boa: 0.67% da população do estado
+* Alta Floresta: 1.88% da população do estado
+* Alto Araguaia: 0.46% da população do estado
+* Alto Boa Vista: 0.25% da população do estado
+* Alto Garças: 0.33% da população do estado
+* Alto Paraguai: 0.34% da população do estado
+* Alto Taquari: 0.18% da população do estado
+* Apiacás: 0.27% da população do estado
+* Araguaiana: 0.14% da população do estado
+* Araguainha: 0.05% da população do estado
+* Araputanga: 0.55% da população do estado
+* Arenápolis: 0.46% da população do estado
+* Aripuanã: 1.10% da população do estado
+* Barão de Melgaço: 0.31% da população do estado
+* Barra do Bugres: 1.10% da população do estado
+* Barra do Garças: 2.08% da população do estado
+* Bom Jesus do Araguaia: 0.00% da população do estado
+* Brasnorte: 0.39% da população do estado
+* Cáceres: 3.43% da população do estado
+* Campinápolis: 0.50% da população do estado
+* Campo Novo do Parecis: 0.70% da população do estado
+* Campo Verde: 0.69% da população do estado
+* Campos de Júlio: 0.12% da população do estado
+* Canabrava do Norte: 0.20% da população do estado
+* Canarana: 0.62% da população do estado
+* Carlinda: 0.49% da população do estado
+* Castanheira: 0.31% da população do estado
+* Chapada dos Guimarães: 0.63% da população do estado
+* Cláudia: 0.41% da população do estado
+* Cocalinho: 0.22% da população do estado
+* Colíder: 1.12% da população do estado
+* Colniza: 0.00% da população do estado
+* Comodoro: 0.60% da população do estado
+* Confresa: 0.71% da população do estado
 Conquista D'Oeste: 0.00% da população do estado
 Cotriguaçu: 0.34% da população do estado
 Cuiabá: 19.30% da população do estado
