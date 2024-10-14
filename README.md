@@ -144,7 +144,6 @@ Vale de Sãoo Domingos
 ---
 # 4. Comparação da população
 
-
 ![Tendências populacionais por Mesorregião](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f1.png)
 
 ![Tendências populacionais por Microrregião](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f2.png)
@@ -153,10 +152,12 @@ Vale de Sãoo Domingos
 
 ![Taxa de crescimento populacional por microrregião 2010-2022](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f4.png)
 
-
 ---
 # 5. Análise de tendências dos municípios
 
+![Tendência populaciona Cuiabá](https://github.com/monteiro74/agp/blob/main/analise_tendencia_populacional/graficos_populacao/tendencia_Cuiab%C3%A1.jpg)
+
+Outros municípios podem ser consultados neste [link](https://github.com/monteiro74/agp/tree/main/analise_tendencia_populacional/graficos_populacao).
 
 ---
 # 6. Análise do declínio populacional
