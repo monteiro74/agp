@@ -8,7 +8,7 @@ Versão: 2.
 ---
 
 - [Projeto AGP](#projeto-agp)
-- [Breve apresentação](#breve-apresentação)
+  - [Breve apresentação](#breve-apresentação)
 - [1. Objetivos](#1-objetivos)
 - [2. Descrição do dataset](#2-descrição-do-dataset)
 - [3. Metodologia](#3-metodologia)
@@ -33,9 +33,9 @@ Os dados podem ser atualizados sem aviso prévio: Os dados produzidos bem como o
 > Visite regularmente a página para obter atualizações! Consulte a página do IBGE sobre atualizações na fonte de dados primária.
 
 ---
-# Breve apresentação
+## Breve apresentação
 
-[Apresentação](https://docs.google.com/presentation/d/1uKVze1mveqRcA2p1HdTYmu67BZPLhGhNXikmW9MfELM/view)
+[Slides de apresentação](https://docs.google.com/presentation/d/1uKVze1mveqRcA2p1HdTYmu67BZPLhGhNXikmW9MfELM/view).
 
 ---
 # 1. Objetivos
@@ -68,31 +68,31 @@ Os dados podem ser atualizados sem aviso prévio: Os dados produzidos bem como o
 ---
 # 4. Análise populacional
 
-Período 1980-1991:
+**Período 1980-1991:**
 Município com maior crescimento anual: Guarantã do Norte
 Taxa de crescimento anual: 40.36%
 Município com menor crescimento anual: Jangada
 Taxa de crescimento anual: -17.69%
 
-Período 2000-2010:
+**Período 2000-2010:**
 Município com maior crescimento anual: Lucas do Rio Verde
 Taxa de crescimento anual: 8.96%
 Município com menor crescimento anual: Itaúba
 Taxa de crescimento anual: -6.08%
 
-Período 2010-2022:
+**Período 2010-2022:**
 Município com maior crescimento anual: Santa Rita do Trivelato
 Taxa de crescimento anual: 17.83%
 Município com menor crescimento anual: Santo Antônio do Leverger
 Taxa de crescimento anual: -14.91%
 
-Média de crescimento anual para o estado de Mato Grosso:
+**Média de crescimento anual para o estado de Mato Grosso:**
 Período 1980-1991: 6.59%
 Período 1991-2000: -0.51%
 Período 2000-2010: 1.26%
 Período 2010-2022: 0.85%
 
-Municípios com crescimento consistentemente acima da média em todos os períodos:
+**Municípios com crescimento consistentemente acima da média em todos os períodos:**
 Agua Boa
 Brasnorte
 Campo Novo do Parecis
@@ -106,7 +106,7 @@ Sorriso
 
 ![Média de crescimento anual do Estado de Mato Grosso](https://github.com/monteiro74/agp/blob/main/analise_crescimento_populacional/media_crescimento_estado.png)
 
-Municípios com crescimento consistentemente acima da média em todos os períodos:
+**Municípios com crescimento consistentemente acima da média em todos os períodos:**
 Agua Boa
 Brasnorte
 Campo Novo do Parecis
@@ -119,7 +119,7 @@ Sorriso
 
 ![Taxa de crescimento dos municípios acima da média](https://github.com/monteiro74/agp/blob/main/analise_crescimento_populacional/municipios_acima_media.png)
 
-Municípios que passaram a existir após 1980:
+**Municípios que passaram a existir após 1980:**
 Alto Boa Vista
 Bom Jesus do Araguaia
 Campos de Júlio
@@ -196,13 +196,13 @@ Outros municípios podem ser consultados neste [link](https://github.com/monteir
 ---
 # 7. Análise do declínio populacional
 
-Alguns municípios com declínio populacional ao longo do tempo:
+**Alguns municípios com declínio populacional ao longo do tempo:**
 - Dom Aquino
 - Figueirópolis D'Oeste
 - Nortelândia
 - Nova Brasilândia
 
-Declínio populacional para Dom Aquino:
+**Declínio populacional para Dom Aquino:**
 1980: 11329 habitantes
 1991: 8943 habitantes
 2000: 8418 habitantes
@@ -211,7 +211,7 @@ Declínio populacional para Dom Aquino:
 
 ![Declínio populacional - Don Aquino](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f1.png)
 
-Declínio populacional para Figueirópolis D'Oeste:
+**Declínio populacional para Figueirópolis D'Oeste:**
 1980: 7076 habitantes
 1991: 5407 habitantes
 2000: 4315 habitantes
@@ -222,7 +222,7 @@ Declínio populacional para Figueirópolis D'Oeste:
 ![Declínio populacional - Figueirópolis D´Oeste](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f2.png)
 
 
-Declínio populacional para Nortelândia:
+**Declínio populacional para Nortelândia:**
 1980: 10447 habitantes
 1991: 10038 habitantes
 2000: 7246 habitantes
@@ -232,7 +232,7 @@ Declínio populacional para Nortelândia:
 
 ![Declínio populacional - Nortelêndia](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f3.png)
 
-Declínio populacional para Nova Brasilândia:
+**Declínio populacional para Nova Brasilândia:**
 1980: 11495 habitantes
 1991: 9611 habitantes
 2000: 5786 habitantes
