@@ -10,6 +10,7 @@ Versão: 2.
 ---
 
 - [Projeto AGP](#projeto-agp)
+- [Breve apresentação](#breve-apresentação)
 - [1. Descrição do dataset](#1-descrição-do-dataset)
 - [2. Metodologia](#2-metodologia)
 - [3. Análise populacional](#3-análise-populacional)
@@ -31,6 +32,10 @@ Os dados podem ser atualizados sem aviso prévio: Os dados produzidos bem como o
 > [!TIP] 
 > Visite regularmente a página para obter atualizações! Consulte a página do IBGE sobre atualizações na fonte de dados primária.
 
+---
+# Breve apresentação
+
+[Apresentação](https://docs.google.com/presentation/d/1uKVze1mveqRcA2p1HdTYmu67BZPLhGhNXikmW9MfELM/view)
 
 ---
 # 1. Descrição do dataset
