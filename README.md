@@ -1,5 +1,5 @@
 # Projeto AGP
-**Análise gráfica populacional**
+**Análise Gráfica Populacional** (AGP)
 
 Autor: Prof. Dr. **Monteiro, E. S**.
 
