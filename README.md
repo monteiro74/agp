@@ -162,6 +162,27 @@ Outros municípios podem ser consultados neste [link](https://github.com/monteir
 ---
 # 6. Análise do declínio populacional
 
+Municípios com declínio populacional ao longo do tempo:
+- Dom Aquino
+- Figueirópolis D'Oeste
+- Nortelândia
+- Nova Brasilândia
+
+Declínio populacional para Dom Aquino:
+1980: 11329 habitantes
+1991: 8943 habitantes
+2000: 8418 habitantes
+2010: 8171 habitantes
+2022: 7872 habitantes
+
+![Declínio populacional - Don Aquino](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f1.png)
+
+![Declínio populacional - Figueirópolis D´Oeste](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f2.png)
+
+![Declínio populacional - Nortelêndia](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f3.png)
+
+![Declínio populacional - Nova Brasilândia](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f4.png)
+
 
 ---
 # 7. Distribuição populacional
