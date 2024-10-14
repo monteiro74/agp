@@ -384,147 +384,147 @@ Distribuição populacional no estado MT em 2000:
 ![Distribuição populacional MT 2010](https://github.com/monteiro74/agp/blob/main/analise_distribuicao_populacao/distribuicao_MT_2010.jpg)
 
 Distribuição populacional no estado MT em 2022:
-Acorizal: 0.14% da população do estado
-Agua Boa: 0.80% da população do estado
-Alta Floresta: 1.60% da população do estado
-Alto Araguaia: 0.47% da população do estado
-Alto Boa Vista: 0.15% da população do estado
-Alto Garças: 0.36% da população do estado
-Alto Paraguai: 0.22% da população do estado
-Alto Taquari: 0.30% da população do estado
-Apiacás: 0.23% da população do estado
-Araguaiana: 0.10% da população do estado
-Araguainha: 0.03% da população do estado
-Araputanga: 0.40% da população do estado
-Arenápolis: 0.29% da população do estado
-Aripuanã: 0.67% da população do estado
-Barão de Melgaço: 0.20% da população do estado
-Barra do Bugres: 0.80% da população do estado
-Barra do Garças: 1.89% da população do estado
-Bom Jesus do Araguaia: 0.20% da população do estado
-Brasnorte: 0.46% da população do estado
-Cáceres: 2.45% da população do estado
-Campinápolis: 0.42% da população do estado
-Campo Novo do Parecis: 1.25% da população do estado
-Campo Verde: 1.22% da população do estado
-Campos de Júlio: 0.24% da população do estado
-Canabrava do Norte: 0.12% da população do estado
-Canarana: 0.71% da população do estado
-Carlinda: 0.28% da população do estado
-Castanheira: 0.21% da população do estado
-Chapada dos Guimarães: 0.52% da população do estado
-Cláudia: 0.26% da população do estado
-Cocalinho: 0.17% da população do estado
-Colíder: 0.86% da população do estado
-Colniza: 0.70% da população do estado
-Comodoro: 0.50% da população do estado
-Confresa: 0.96% da população do estado
-Conquista D'Oeste: 0.10% da população do estado
-Cotriguaçu: 0.30% da população do estado
-Cuiabá: 17.79% da população do estado
-Curvelândia: 0.13% da população do estado
-Denise: 0.19% da população do estado
-Diamantino: 0.60% da população do estado
-Dom Aquino: 0.22% da população do estado
-Feliz Natal: 0.29% da população do estado
-Figueirópolis D'Oeste: 0.09% da população do estado
-Gaúcha do Norte: 0.24% da população do estado
-General Carneiro: 0.16% da população do estado
-Glória D'Oeste: 0.08% da população do estado
-Guarantã do Norte: 0.85% da população do estado
-Guiratinga: 0.30% da população do estado
-Indiavaí: 0.06% da população do estado
-Ipiranga do Norte: 0.21% da população do estado
-Itanhangá: 0.21% da população do estado
-Itaúba: 0.14% da população do estado
-Itiquira: 0.33% da população do estado
-Jaciara: 0.78% da população do estado
-Jangada: 0.20% da população do estado
-Jauru: 0.23% da população do estado
-Juara: 0.95% da população do estado
-Juína: 1.25% da população do estado
-Juruena: 0.28% da população do estado
-Juscimeira: 0.31% da população do estado
-Lambari D'Oeste: 0.13% da população do estado
-Lucas do Rio Verde: 2.29% da população do estado
-Luciara: 0.07% da população do estado
-Marcelândia: 0.31% da população do estado
-Matupá: 0.55% da população do estado
-Mirassol D'Oeste: 0.73% da população do estado
-Nobres: 0.42% da população do estado
-Nortelândia: 0.16% da população do estado
-Nossa Senhora do Livramento: 0.35% da população do estado
-Nova Bandeirantes: 0.37% da população do estado
-Nova Brasilândia: 0.11% da população do estado
-Nova Canaã do Norte: 0.18% da população do estado
-Nova Guarita: 0.12% da população do estado
-Nova Lacerda: 0.11% da população do estado
-Nova Marilândia: 0.32% da população do estado
-Nova Maringá: 0.13% da população do estado
-Nova Monte Verde: 0.10% da população do estado
-Nova Mutum: 0.16% da população do estado
-Nova Nazaré: 0.23% da população do estado
-Nova Olímpia: 1.52% da população do estado
-Nova Santa Helena: 0.45% da população do estado
-Nova Ubiratã: 0.31% da população do estado
-Nova Xavantina: 0.67% da população do estado
-Novo Horizonte do Norte: 0.18% da população do estado
-Novo Mundo: 0.09% da população do estado
-Novo Santo Antônio: 0.19% da população do estado
-Novo São Joaquim: 0.06% da população do estado
-Paranaíta: 0.32% da população do estado
-Paranatinga: 0.72% da população do estado
-Pedra Preta: 0.49% da população do estado
-Peixoto de Azevedo: 0.89% da população do estado
-Planalto da Serra: 0.09% da população do estado
-Poconé: 0.85% da população do estado
-Pontal do Araguaia: 0.19% da população do estado
-Ponte Branca: 0.05% da população do estado
-Pontes e Lacerda: 1.42% da população do estado
-Porto Alegre do Norte: 0.38% da população do estado
-Porto dos Gaúchos: 0.15% da população do estado
-Porto Esperidião: 0.28% da população do estado
-Porto Estrela: 0.09% da população do estado
-Poxoréo: 0.64% da população do estado
-Primavera do Leste: 2.33% da população do estado
-Querência: 0.73% da população do estado
-Reserva do Cabaçal: 0.06% da população do estado
-Ribeirão Cascalheira: 0.27% da população do estado
-Ribeirãozinho: 0.07% da população do estado
-Rio Branco: 0.12% da população do estado
-Rondolândia: 0.10% da população do estado
-Rondonópolis: 6.69% da população do estado
-Rosário Oeste: 0.42% da população do estado
-Salto do Céu: 0.15% da população do estado
-Santa Carmem: 0.07% da população do estado
-Santa Cruz do Xingu: 0.08% da população do estado
-Santa Rita do Trivelato: 0.49% da população do estado
-Santa Terezinha: 0.41% da população do estado
-Santo Afonso: 0.16% da população do estado
-Santo Antônio do Leste: 0.11% da população do estado
-Santo Antônio do Leverger: 0.07% da população do estado
-São Félix do Araguaia: 0.10% da população do estado
-São José do Povo: 0.09% da população do estado
-São José do Rio Claro: 0.21% da população do estado
-São José do Xingu: 0.11% da população do estado
-São José dos Quatro Marcos: 0.42% da população do estado
-São Pedro da Cipa: 0.37% da população do estado
-Sapezal: 0.79% da população do estado
-Serra Nova Dourada: 0.05% da população do estado
-Sinop: 5.36% da população do estado
-Sorriso: 3.02% da população do estado
-Tabaporã: 0.27% da população do estado
-Tangará da Serra: 2.91% da população do estado
-Tapurah: 0.39% da população do estado
-Terra Nova do Norte: 0.29% da população do estado
-Tesouro: 0.08% da população do estado
-Torixoréu: 0.11% da população do estado
-União do Sul: 0.10% da população do estado
-Vale de São Domingos: 0.08% da população do estado
-Várzea Grande: 8.18% da população do estado
-Vera: 0.35% da população do estado
-Vila Bela da Santíssima Trindade: 0.46% da população do estado
-Vila Rica: 0.54% da população do estado
+* Acorizal: 0.14% da população do estado
+* Agua Boa: 0.80% da população do estado
+* Alta Floresta: 1.60% da população do estado
+* Alto Araguaia: 0.47% da população do estado
+* Alto Boa Vista: 0.15% da população do estado
+* Alto Garças: 0.36% da população do estado
+* Alto Paraguai: 0.22% da população do estado
+* Alto Taquari: 0.30% da população do estado
+* Apiacás: 0.23% da população do estado
+* Araguaiana: 0.10% da população do estado
+* Araguainha: 0.03% da população do estado
+* Araputanga: 0.40% da população do estado
+* Arenápolis: 0.29% da população do estado
+* Aripuanã: 0.67% da população do estado
+* Barão de Melgaço: 0.20% da população do estado
+* Barra do Bugres: 0.80% da população do estado
+* Barra do Garças: 1.89% da população do estado
+* Bom Jesus do Araguaia: 0.20% da população do estado
+* Brasnorte: 0.46% da população do estado
+* Cáceres: 2.45% da população do estado
+* Campinápolis: 0.42% da população do estado
+* Campo Novo do Parecis: 1.25% da população do estado
+* Campo Verde: 1.22% da população do estado
+* Campos de Júlio: 0.24% da população do estado
+* Canabrava do Norte: 0.12% da população do estado
+* Canarana: 0.71% da população do estado
+* Carlinda: 0.28% da população do estado
+* Castanheira: 0.21% da população do estado
+* Chapada dos Guimarães: 0.52% da população do estado
+* Cláudia: 0.26% da população do estado
+* Cocalinho: 0.17% da população do estado
+* Colíder: 0.86% da população do estado
+* Colniza: 0.70% da população do estado
+* Comodoro: 0.50% da população do estado
+* Confresa: 0.96% da população do estado
+* Conquista D'Oeste: 0.10% da população do estado
+* Cotriguaçu: 0.30% da população do estado
+* Cuiabá: 17.79% da população do estado
+* Curvelândia: 0.13% da população do estado
+* Denise: 0.19% da população do estado
+* Diamantino: 0.60% da população do estado
+* Dom Aquino: 0.22% da população do estado
+* Feliz Natal: 0.29% da população do estado
+* Figueirópolis D'Oeste: 0.09% da população do estado
+* Gaúcha do Norte: 0.24% da população do estado
+* General Carneiro: 0.16% da população do estado
+* Glória D'Oeste: 0.08% da população do estado
+* Guarantã do Norte: 0.85% da população do estado
+* Guiratinga: 0.30% da população do estado
+* Indiavaí: 0.06% da população do estado
+* Ipiranga do Norte: 0.21% da população do estado
+* Itanhangá: 0.21% da população do estado
+* Itaúba: 0.14% da população do estado
+* Itiquira: 0.33% da população do estado
+* Jaciara: 0.78% da população do estado
+* Jangada: 0.20% da população do estado
+* Jauru: 0.23% da população do estado
+* Juara: 0.95% da população do estado
+* Juína: 1.25% da população do estado
+* Juruena: 0.28% da população do estado
+* Juscimeira: 0.31% da população do estado
+* Lambari D'Oeste: 0.13% da população do estado
+* Lucas do Rio Verde: 2.29% da população do estado
+* Luciara: 0.07% da população do estado
+* Marcelândia: 0.31% da população do estado
+* Matupá: 0.55% da população do estado
+* Mirassol D'Oeste: 0.73% da população do estado
+* Nobres: 0.42% da população do estado
+* Nortelândia: 0.16% da população do estado
+* Nossa Senhora do Livramento: 0.35% da população do estado
+* Nova Bandeirantes: 0.37% da população do estado
+* Nova Brasilândia: 0.11% da população do estado
+* Nova Canaã do Norte: 0.18% da população do estado
+* Nova Guarita: 0.12% da população do estado
+* Nova Lacerda: 0.11% da população do estado
+* Nova Marilândia: 0.32% da população do estado
+* Nova Maringá: 0.13% da população do estado
+* Nova Monte Verde: 0.10% da população do estado
+* Nova Mutum: 0.16% da população do estado
+* Nova Nazaré: 0.23% da população do estado
+* Nova Olímpia: 1.52% da população do estado
+* Nova Santa Helena: 0.45% da população do estado
+* Nova Ubiratã: 0.31% da população do estado
+* Nova Xavantina: 0.67% da população do estado
+* Novo Horizonte do Norte: 0.18% da população do estado
+* Novo Mundo: 0.09% da população do estado
+* Novo Santo Antônio: 0.19% da população do estado
+* Novo São Joaquim: 0.06% da população do estado
+* Paranaíta: 0.32% da população do estado
+* Paranatinga: 0.72% da população do estado
+* Pedra Preta: 0.49% da população do estado
+* Peixoto de Azevedo: 0.89% da população do estado
+* Planalto da Serra: 0.09% da população do estado
+* Poconé: 0.85% da população do estado
+* Pontal do Araguaia: 0.19% da população do estado
+* Ponte Branca: 0.05% da população do estado
+* Pontes e Lacerda: 1.42% da população do estado
+* Porto Alegre do Norte: 0.38% da população do estado
+* Porto dos Gaúchos: 0.15% da população do estado
+* Porto Esperidião: 0.28% da população do estado
+* Porto Estrela: 0.09% da população do estado
+* Poxoréo: 0.64% da população do estado
+* Primavera do Leste: 2.33% da população do estado
+* Querência: 0.73% da população do estado
+* Reserva do Cabaçal: 0.06% da população do estado
+* Ribeirão Cascalheira: 0.27% da população do estado
+* Ribeirãozinho: 0.07% da população do estado
+* Rio Branco: 0.12% da população do estado
+* Rondolândia: 0.10% da população do estado
+* Rondonópolis: 6.69% da população do estado
+* Rosário Oeste: 0.42% da população do estado
+* Salto do Céu: 0.15% da população do estado
+* Santa Carmem: 0.07% da população do estado
+* Santa Cruz do Xingu: 0.08% da população do estado
+* Santa Rita do Trivelato: 0.49% da população do estado
+* Santa Terezinha: 0.41% da população do estado
+* Santo Afonso: 0.16% da população do estado
+* Santo Antônio do Leste: 0.11% da população do estado
+* Santo Antônio do Leverger: 0.07% da população do estado
+* São Félix do Araguaia: 0.10% da população do estado
+* São José do Povo: 0.09% da população do estado
+* São José do Rio Claro: 0.21% da população do estado
+* São José do Xingu: 0.11% da população do estado
+* São José dos Quatro Marcos: 0.42% da população do estado
+* São Pedro da Cipa: 0.37% da população do estado
+* Sapezal: 0.79% da população do estado
+* Serra Nova Dourada: 0.05% da população do estado
+* Sinop: 5.36% da população do estado
+* Sorriso: 3.02% da população do estado
+* Tabaporã: 0.27% da população do estado
+* Tangará da Serra: 2.91% da população do estado
+* Tapurah: 0.39% da população do estado
+* Terra Nova do Norte: 0.29% da população do estado
+* Tesouro: 0.08% da população do estado
+* Torixoréu: 0.11% da população do estado
+* União do Sul: 0.10% da população do estado
+* Vale de São Domingos: 0.08% da população do estado
+* Várzea Grande: 8.18% da população do estado
+* Vera: 0.35% da população do estado
+* Vila Bela da Santíssima Trindade: 0.46% da população do estado
+* Vila Rica: 0.54% da população do estado
 
 Índice de Gini para MT em 2022: 0.6776
 
