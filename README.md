@@ -77,8 +77,81 @@ Matupá
 Sinop
 Sorriso
 
+
+![Média de crescimento anual do Estado de Mato Grosso](https://github.com/monteiro74/agp/blob/main/analise_crescimento_populacional/media_crescimento_estado.png)
+
+Municípios com crescimento consistentemente acima da média em todos os períodos:
+Agua Boa
+Brasnorte
+Campo Novo do Parecis
+Campo Verde
+Canarana
+Lucas do Rio Verde
+Matupá
+Sinop
+Sorriso
+
+![Taxa de crescimento dos municípios acima da média](https://github.com/monteiro74/agp/blob/main/analise_crescimento_populacional/municipios_acima_media.png)
+
+Municípios que passaram a existir após 1980:
+Alto Boa Vista
+Bom Jesus do Araguaia
+Campos de JÃºlio
+Canabrava do Norte
+Carlinda
+Colniza
+Confresa
+Conquista D'Oeste
+CotriguaÃ§u
+CurvelÃ¢ndia
+Feliz Natal
+GaÃºcha do Norte
+GlÃ³ria D'Oeste
+Ipiranga do Norte
+ItanhangÃ¡
+Lambari D'Oeste
+Nova Bandeirantes
+Nova Guarita
+Nova Lacerda
+Nova MarilÃ¢ndia
+Nova MaringÃ¡
+Nova Monte Verde
+Nova NazarÃ©
+Nova Santa Helena
+Nova UbiratÃ£
+Novo Mundo
+Novo Santo AntÃ´nio
+Planalto da Serra
+Pontal do Araguaia
+Porto Estrela
+QuerÃªncia
+RibeirÃ£ozinho
+RondolÃ¢ndia
+Santa Carmem
+Santa Cruz do Xingu
+Santa Rita do Trivelato
+Santo Afonso
+Santo AntÃ´nio do Leverger
+SÃ£o José do Povo
+SÃ£o José do Xingu
+SÃ£o Pedro da Cipa
+Sapezal
+Serra Nova Dourada
+Tabaporã
+União do Sul
+Vale de Sãoo Domingos
+
 ---
 # 4. Comparação da população
+
+
+![Tendências populacionais por Mesorregião](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f1.png)
+
+![Tendências populacionais por Microrregião](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f2.png)
+
+![Taxa de crescimento populacional por Mesorregião 2010-2022](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f3.png)
+
+![Taxa de crescimento populacional por microrregião 2010-2022](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f4.png)
 
 
 ---
