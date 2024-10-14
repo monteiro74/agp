@@ -725,5 +725,6 @@ Vila Rica: 0.54% da população do estado
 ---
 # 9. Outras representações gráficas
 
+![gráfico1](https://github.com/monteiro74/agp/blob/main/outras_rep_graficas/grafico_1.png)
 
-
+![gráfico2](https://github.com/monteiro74/agp/blob/main/outras_rep_graficas/mapa_1.png)
