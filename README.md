@@ -96,50 +96,52 @@ Sorriso
 Municípios que passaram a existir após 1980:
 Alto Boa Vista
 Bom Jesus do Araguaia
-Campos de JÃºlio
+Campos de Júlio
 Canabrava do Norte
 Carlinda
 Colniza
 Confresa
 Conquista D'Oeste
-CotriguaÃ§u
-CurvelÃ¢ndia
+Cotriguaçu
+Curvelândia
 Feliz Natal
-GaÃºcha do Norte
-GlÃ³ria D'Oeste
+Gaúcha do Norte
+Glória D'Oeste
 Ipiranga do Norte
-ItanhangÃ¡
+Itanhangá
 Lambari D'Oeste
 Nova Bandeirantes
 Nova Guarita
 Nova Lacerda
-Nova MarilÃ¢ndia
-Nova MaringÃ¡
+Nova Marilândia
+Nova Maringá
 Nova Monte Verde
-Nova NazarÃ©
+Nova Nazaré
 Nova Santa Helena
-Nova UbiratÃ£
+Nova Ubiratã
 Novo Mundo
-Novo Santo AntÃ´nio
+Novo Santo Antônio
 Planalto da Serra
 Pontal do Araguaia
 Porto Estrela
-QuerÃªncia
-RibeirÃ£ozinho
-RondolÃ¢ndia
+Querência
+Ribeirãozinho
+Rondolândia
 Santa Carmem
 Santa Cruz do Xingu
 Santa Rita do Trivelato
 Santo Afonso
-Santo AntÃ´nio do Leverger
-SÃ£o José do Povo
-SÃ£o José do Xingu
-SÃ£o Pedro da Cipa
+Santo Antônio do Leverger
+São José do Povo
+São José do Xingu
+São Pedro da Cipa
 Sapezal
 Serra Nova Dourada
 Tabaporã
 União do Sul
 Vale de Sãoo Domingos
+
+[Início](#projeto-agp)
 
 ---
 # 4. Comparação da população
@@ -152,6 +154,8 @@ Vale de Sãoo Domingos
 
 ![Taxa de crescimento populacional por microrregião 2010-2022](https://github.com/monteiro74/agp/blob/main/analise_comparacao_populacao/f4.png)
 
+[Início](#projeto-agp)
+
 ---
 # 5. Análise de tendências dos municípios
 
@@ -160,6 +164,8 @@ Exemplo:
 ![Tendência populaciona Cuiabá](https://github.com/monteiro74/agp/blob/main/analise_tendencia_populacional/graficos_populacao/tendencia_Cuiab%C3%A1.jpg)
 
 Outros municípios podem ser consultados neste [link](https://github.com/monteiro74/agp/tree/main/analise_tendencia_populacional/graficos_populacao).
+
+[Início](#projeto-agp)
 
 ---
 # 6. Análise do declínio populacional
@@ -210,6 +216,7 @@ Declínio populacional para Nova Brasilândia:
 
 ![Declínio populacional - Nova Brasilândia](https://github.com/monteiro74/agp/blob/main/analise_declinio_populacional/f4.png)
 
+[Início](#projeto-agp)
 
 ---
 # 7. Distribuição populacional
@@ -366,6 +373,8 @@ Distribuição populacional no estado MT em 2000:
 
 Índice de Gini para MT em 2000: 0.6597
 
+[Início](#projeto-agp)
+
 ![Distribuição populacional MT 2000](https://github.com/monteiro74/agp/blob/main/analise_distribuicao_populacao/distribuicao_MT_2000.jpg)
 
 
@@ -521,6 +530,7 @@ Vila Rica: 0.54% da população do estado
 
 ![Distribuição populacional MT 2022](https://github.com/monteiro74/agp/blob/main/analise_distribuicao_populacao/distribuicao_MT_2022.jpg)
 
+[Início](#projeto-agp)
 
 ---
 # 8. Tree map e heat map
@@ -529,9 +539,13 @@ Vila Rica: 0.54% da população do estado
 
 ![Heat map](https://github.com/monteiro74/agp/blob/main/mapa_de_calor/heatmap_populacao_municipios.jpg)
 
+[Início](#projeto-agp)
+
 ---
 # 9. Outras representações gráficas
 
 ![gráfico1](https://github.com/monteiro74/agp/blob/main/outras_rep_graficas/grafico_1.png)
 
 ![gráfico2](https://github.com/monteiro74/agp/blob/main/outras_rep_graficas/mapa_1.png)
+
+[Início](#projeto-agp)
