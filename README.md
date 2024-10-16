@@ -38,7 +38,9 @@ Os dados podem ser atualizados sem aviso prévio: Os dados produzidos bem como o
 Description:
 Dataset containing: Evolution of the Population of Brazilian Municipalities in the State of Mato Grosso, Mesoregion and Microregion: 1980, 1991, 2000, 2010 and 2022. This dataset can be used in classroom/lectures of data engineering, database and programming. Some fields may contain empty or null values. This dataset is not for commercial/professional use. This dataset may undergo changes without prior notice. This dataset contains the compilation of various population data, by year, prepared by IBGE, it is a collection used for study purposes. Primary source: IBGE https://www.ibge.gov.br/estatisticas/sociais/populacao.html. Dataset is in plain text CSV format. External reference: https://github.com/monteiro74/agp. License: CC BY-NC-SA 4.0.
 
+DOI: https://zenodo.org/records/13932135
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13932135.svg)](https://doi.org/10.5281/zenodo.13932135)
 
 ---
 ## Breve apresentação
